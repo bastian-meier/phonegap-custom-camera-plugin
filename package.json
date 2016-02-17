@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-nativecamera",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": "Cordova Native Camera Plugin",
     "cordova": {
         "id": "cordova-plugin-nativecamera",
